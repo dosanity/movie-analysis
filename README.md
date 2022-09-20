@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-There are many different movies throughout the years that were successful, but also many that failed. There are also old movies that people consider to be classics and are still watched today. In this project, we will be analyzing movies from the 1900 to 2005 and organize the information in a Pandas dataframe. After that, we will use statistical analysis and visualize different charts to determime if older movies are better than newer ones.
+There are many different movies throughout the years that were successful, but also many that failed. There are also old movies that people consider to be classics and are still watched today. In this project, we will be analyzing movies from the 1900 to 2005 and organize the information in a Pandas dataframe. After that, we will use statistical analysis and visualize different charts to determine if older movies are better than newer ones.
 
 ## Python Analysis
 
